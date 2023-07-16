@@ -8,7 +8,7 @@ Redefining the art of digital innovation one pixel at a time.
 
 - 💬 Ask me about Photography 
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with learning JS
+- 🤔 I’m looking for help with learning JS and c++/c#
 - 📫 How to reach me: adithyansv1304@gmail.com
 
   
